@@ -3,7 +3,9 @@
 ---
 **:technologist: Om meg:**
 
-Jeg studerer Informatikk: Programmering og systemarkitektur ved Universitetet i Oslo (UiO)
+Studerer Informatikk: Programmering og systemarkitektur ved Universitetet i Oslo (UiO)
+
+Jobber deltid som selger hos Krogh Optikk AS
 
 
 ---
