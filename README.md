@@ -18,7 +18,7 @@ Jeg studerer Informatikk: Programmering og systemarkitektur ved Universitetet i 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaitran&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)   
 ---
 
-Kontaktinfo:
+:envelope: Kontaktinfo:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/nicolai-tran/">
